@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "DQ388279.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "DQ388279/DQ388279.vadr.protein.fa",
+  "number-of-letters": 3179,
+  "number-of-sequences": 2,
+  "last-updated": "2025-05-20T01:53:00",
+  "number-of-volumes": 1,
+  "bytes-total": 40412,
+  "bytes-to-cache": 3334,
+  "files": [
+    "DQ388279.vadr.protein.fa.pdb",
+    "DQ388279.vadr.protein.fa.phr",
+    "DQ388279.vadr.protein.fa.pin",
+    "DQ388279.vadr.protein.fa.pot",
+    "DQ388279.vadr.protein.fa.psq",
+    "DQ388279.vadr.protein.fa.ptf",
+    "DQ388279.vadr.protein.fa.pto"
+  ]
+}
