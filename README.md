@@ -60,8 +60,9 @@ v-annotate.pl -r --mkey ruv --mdir <ruv-models-dir-path> <fasta-file-to-annotate
 
 ---
 ## <a name="ruvmodels"></a>RuV VADR model library
-* The VADR model library for MeV annotation was developed using representative sequences from the 2
+* The VADR model library for RuV annotation was developed using representative sequences from the 2
   main clades currently available in the complete RuV genomes published in GenBank: MK780811(1), DQ388279(B3).
+  Both models sequences were modified by the addition of a poly-A tail to provide complete genome sequence.
 ---
 
 ## <a name="docs"> Additional VADR documentation
